@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vikasapp/static/css/main.9b76482d.css",
+    "main.js": "/vikasapp/static/js/main.289610a4.js",
+    "static/js/787.790f491c.chunk.js": "/vikasapp/static/js/787.790f491c.chunk.js",
+    "index.html": "/vikasapp/index.html",
+    "main.9b76482d.css.map": "/vikasapp/static/css/main.9b76482d.css.map",
+    "main.289610a4.js.map": "/vikasapp/static/js/main.289610a4.js.map",
+    "787.790f491c.chunk.js.map": "/vikasapp/static/js/787.790f491c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b76482d.css",
+    "static/js/main.289610a4.js"
+  ]
+}
